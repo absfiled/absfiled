@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @absfiled
-- Testflight for [MRR](../../../mrr) and [VPERCCS](../../../vperccs)
-
+- Testflight for [MRR](../../../mrr)
 
 <!---
 
